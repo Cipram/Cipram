@@ -40,4 +40,4 @@ Here are some of the technologies I've been working with:
 
 Let's connect!
 
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cipriano-martín-a30b50380/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cipriano-martín-a30b50380/)
