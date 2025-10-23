@@ -11,7 +11,7 @@ My curiosity draws me to the technical challenges of software development, espec
   <b>🚀 I'm actively seeking internship or entry-level opportunities.</b> <br>
   <em>I'm excited to apply my skills, learn from a team, and contribute to impactful projects. Let's connect!</em>
 </p>
-- 🔭 I’m currently working on university projects and a personal AI model.
+- 🔭 I’m currently working on university and personal projects.
 
 ## 🛠️ My Tech Stack
 
